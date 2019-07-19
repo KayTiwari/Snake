@@ -1,3 +1,3 @@
 # Snake
-Balls eating more balls simulator
+Balls eating more balls
 ![](/Image/image.png)
